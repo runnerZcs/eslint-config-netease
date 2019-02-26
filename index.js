@@ -52,7 +52,7 @@ module.exports = {
     'no-console': 'warn',
     'require-await': 'error',
     'vars-on-top': 'error',
-    'init-declarations': '',
+    'init-declarations': 'off',
     'global-require': ['off', false],
     'no-process-env': 'off',
     'no-process-exit': 'off',
