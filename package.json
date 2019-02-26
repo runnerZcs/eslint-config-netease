@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-netease",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "netease javascript and react code specification",
   "main": "index.js",
   "author": "netease",
