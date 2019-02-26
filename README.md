@@ -6,7 +6,7 @@
 
 1.  安装
 
-    npm install --save-dev eslint-config-netease@latest eslint@">=5.13.0" babel-eslint@">=10.0.1"
+        npm install --save-dev eslint-config-netease@latest eslint@">=5.13.0" babel-eslint@">=10.0.1"
 
 2.  配置 package.json
 
