@@ -4,11 +4,16 @@
 
 ## 如何使用
 
-1.  安装
+1.  安装  
+    切换 npm 源请使用`nrm`
 
-        npm install --save-dev eslint-config-netease@latest eslint@">=5.13.0" babel-eslint@">=10.0.1"
+          外网npm
+          npm install --save-dev eslint-config-netease@latest eslint@">=5.13.0" babel-eslint@">=10.0.1"
 
-2.  配置 package.json
+          杭研npm
+          npm install --save-dev @mf2e/eslint-config-netease@latest eslint@">=5.13.0" babel-eslint@">=10.0.1"
+
+2)  配置 package.json
 
     - 配置 eslint
 
