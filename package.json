@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-netease",
+  "name": "@mf2e/eslint-config-netease",
   "version": "1.0.4",
   "description": "netease javascript and react code specification",
   "main": "index.js",
