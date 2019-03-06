@@ -2,6 +2,18 @@
 
     基于eslint的JavaScript和React代码检查插件。
 
+## 规范文档
+
+- [React 规范](./doc/react.md)
+- [React 可访问性规范](./doc/reactAccessbility.md)
+- [模块化规范](./doc/imports.md)
+- [最佳实践](./doc/best-practices.md)
+- [错误语法](./doc/errors.md)
+- [es6](./doc/es6.md)
+- [node](./doc/node.md)
+- [代码样式](./doc/style.md)
+- [变量](./doc/variables.md)
+
 ## 如何使用
 
 1.  安装  
