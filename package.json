@@ -12,6 +12,10 @@
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "eslint-plugin-react": "^7.10.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/runnerZcs/eslint-config-netease"
+  },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
     "eslint": "^5.13.0",
